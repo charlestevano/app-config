@@ -11,4 +11,4 @@ alang=ja,jp,jpn,en
 sub-font="Inter"
 sub-bold=yes
 volume-max=200
-cursor-autohide=500
+cursor-autohide=250
