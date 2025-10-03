@@ -12,3 +12,4 @@ sub-font="Inter"
 sub-bold=yes
 volume-max=200
 cursor-autohide=250
+save-position-on-quit
